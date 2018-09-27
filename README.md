@@ -349,17 +349,17 @@ You can replace a string with another by using the `replace_with()` method as sh
 ### Parsing XML with BS4
 
 Parsing a XML document is pretty much the same as parsing a HTML document with the exception that you pass in a second parameter which will be the XML parser:  `lxml` or `html5lib`. Let’s assume that the XML document that we want to parse is listed below. Its filename is [book.xml](https://github.com/purcellconsult/Data-Manipulation-in-Python/blob/master/book.xml). 
-```python
-<?xml version="1.0" encoding="UTF-8"?>
-<book>
-  <title> Java for Newbies. </title>
-  <subject> computer programming </subject>
-  <author> Dougie Doug </author>
-  <description> Master the basics of the Java core </description>
-  <pages> 292 </pages>
-  <price> 180 </price>
-</book>
-```
+
+    <?xml version="1.0" encoding="UTF-8"?>
+    <book>
+      <title> Java for Newbies. </title>
+      <subject> computer programming </subject>
+      <author> Dougie Doug </author>
+      <description> Master the basics of the Java core </description>
+      <pages> 292 </pages>
+      <price> 180 </price>
+    </book>
+
 Below is an example on how to read in the XML file via BS4 using the `xlib` parser:
 
 ```python
