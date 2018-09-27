@@ -1,0 +1,25 @@
+{
+	"name": "Clark Kent",
+	"alias": "Super Man",
+	"nationality": [
+		"United States",
+		"Krypton"
+	],
+
+	"occupation": [
+		"journalist",
+		"superhero"
+	],
+
+	"main_villian": "Lex Luthor",
+	"best_friend": "James Olsen",
+	"cousin": "Kara Zor-El",
+	"daily_planet_salary": 65000,
+	"balance": "23000",
+	"withdrawal": -1500.98,
+	"job_status": null,
+	"still_super_hero": true,
+	"wife": "Lois Lane"
+}
+
+

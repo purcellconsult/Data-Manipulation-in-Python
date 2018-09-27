@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book>
+  <title> Java for Newbies. </title>
+  <subject> computer programming </subject>
+  <author> Dougie Doug </author>
+  <description> Master the basics of the Java core </description>
+  <pages> 292 </pages>
+  <price> 180 </price>
+</book>
